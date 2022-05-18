@@ -30,4 +30,8 @@ int get_help(data_shell *datash)
 
 	datash->status = 0;
 	return (1);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 0bac20069f2c0500e2024ed4948377f752b00b63

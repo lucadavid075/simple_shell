@@ -180,4 +180,8 @@ char *rep_var(char *input, data_shell *datash)
 	free_rvar_list(&head);
 
 	return (new_input);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 0bac20069f2c0500e2024ed4948377f752b00b63

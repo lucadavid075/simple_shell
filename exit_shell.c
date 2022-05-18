@@ -28,4 +28,8 @@ int exit_shell(data_shell *datash)
 		datash->status = (ustatus % 256);
 	}
 	return (0);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 0bac20069f2c0500e2024ed4948377f752b00b63
