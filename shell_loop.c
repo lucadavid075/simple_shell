@@ -74,8 +74,4 @@ void shell_loop(data_shell *datash)
 			free(input);
 		}
 	}
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 0bac20069f2c0500e2024ed4948377f752b00b63

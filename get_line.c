@@ -81,8 +81,4 @@ ssize_t get_line(char **lineptr, size_t *n, FILE *stream)
 	if (i != 0)
 		input = 0;
 	return (retval);
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 0bac20069f2c0500e2024ed4948377f752b00b63

@@ -19,8 +19,4 @@ int exec_line(data_shell *datash)
 		return (builtin(datash));
 
 	return (cmd_exec(datash));
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 0bac20069f2c0500e2024ed4948377f752b00b63
