@@ -1,11 +1,7 @@
 #include "main.h"
 
 /**
-<<<<<<< HEAD
- * cmp_env_name - compares environemt variables names
-=======
  * cmp_env_name - compares env variables names
->>>>>>> 0bac20069f2c0500e2024ed4948377f752b00b63
  * with the name passed.
  * @nenv: name of the environment variable
  * @name: name passed
@@ -81,8 +77,4 @@ int _env(data_shell *datash)
 	datash->status = 0;
 
 	return (1);
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 0bac20069f2c0500e2024ed4948377f752b00b63
